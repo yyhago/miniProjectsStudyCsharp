@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\calculadoraDesconto\obj\Debug\net9.0\calculadoraDesconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\calculadoraDesconto\obj\Debug\net9.0\calculadoraDesconto.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\calculadoraDesconto\obj\Debug\net9.0\calculadoraDesconto.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\calculadoraDesconto\obj\Debug\net9.0\calculadoraDesconto.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\calculadoraDesconto\bin\Debug\net9.0\calculadoraDesconto.exe
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\calculadoraDesconto\bin\Debug\net9.0\calculadoraDesconto.deps.json
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\calculadoraDesconto\bin\Debug\net9.0\calculadoraDesconto.runtimeconfig.json
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\calculadoraDesconto\bin\Debug\net9.0\calculadoraDesconto.dll
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\calculadoraDesconto\bin\Debug\net9.0\calculadoraDesconto.pdb
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\calculadoraDesconto\obj\Debug\net9.0\calculadoraDesconto.dll
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\calculadoraDesconto\obj\Debug\net9.0\refint\calculadoraDesconto.dll
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\calculadoraDesconto\obj\Debug\net9.0\calculadoraDesconto.pdb
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\calculadoraDesconto\obj\Debug\net9.0\calculadoraDesconto.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\calculadoraDesconto\obj\Debug\net9.0\ref\calculadoraDesconto.dll
