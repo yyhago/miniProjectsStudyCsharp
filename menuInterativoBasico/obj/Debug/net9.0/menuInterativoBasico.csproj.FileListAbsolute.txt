@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\menuInterativoBasico\bin\Debug\net9.0\menuInterativoBasico.exe
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\menuInterativoBasico\bin\Debug\net9.0\menuInterativoBasico.deps.json
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\menuInterativoBasico\bin\Debug\net9.0\menuInterativoBasico.runtimeconfig.json
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\menuInterativoBasico\bin\Debug\net9.0\menuInterativoBasico.dll
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\menuInterativoBasico\bin\Debug\net9.0\menuInterativoBasico.pdb
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\menuInterativoBasico\obj\Debug\net9.0\menuInterativoBasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\menuInterativoBasico\obj\Debug\net9.0\menuInterativoBasico.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\menuInterativoBasico\obj\Debug\net9.0\menuInterativoBasico.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\menuInterativoBasico\obj\Debug\net9.0\menuInterativoBasico.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\menuInterativoBasico\obj\Debug\net9.0\menuInterativoBasico.sourcelink.json
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\menuInterativoBasico\obj\Debug\net9.0\menuInterativoBasico.dll
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\menuInterativoBasico\obj\Debug\net9.0\refint\menuInterativoBasico.dll
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\menuInterativoBasico\obj\Debug\net9.0\menuInterativoBasico.pdb
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\menuInterativoBasico\obj\Debug\net9.0\menuInterativoBasico.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\menuInterativoBasico\obj\Debug\net9.0\ref\menuInterativoBasico.dll
