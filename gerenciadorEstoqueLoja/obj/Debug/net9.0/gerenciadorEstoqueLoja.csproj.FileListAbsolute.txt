@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\gerenciadorEstoqueLoja\obj\Debug\net9.0\gerenciadorEstoqueLoja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\gerenciadorEstoqueLoja\obj\Debug\net9.0\gerenciadorEstoqueLoja.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\gerenciadorEstoqueLoja\obj\Debug\net9.0\gerenciadorEstoqueLoja.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\gerenciadorEstoqueLoja\obj\Debug\net9.0\gerenciadorEstoqueLoja.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\gerenciadorEstoqueLoja\obj\Debug\net9.0\gerenciadorEstoqueLoja.sourcelink.json
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\gerenciadorEstoqueLoja\bin\Debug\net9.0\gerenciadorEstoqueLoja.exe
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\gerenciadorEstoqueLoja\bin\Debug\net9.0\gerenciadorEstoqueLoja.deps.json
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\gerenciadorEstoqueLoja\bin\Debug\net9.0\gerenciadorEstoqueLoja.runtimeconfig.json
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\gerenciadorEstoqueLoja\bin\Debug\net9.0\gerenciadorEstoqueLoja.dll
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\gerenciadorEstoqueLoja\bin\Debug\net9.0\gerenciadorEstoqueLoja.pdb
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\gerenciadorEstoqueLoja\obj\Debug\net9.0\gerenciadorEstoqueLoja.dll
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\gerenciadorEstoqueLoja\obj\Debug\net9.0\refint\gerenciadorEstoqueLoja.dll
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\gerenciadorEstoqueLoja\obj\Debug\net9.0\gerenciadorEstoqueLoja.pdb
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\gerenciadorEstoqueLoja\obj\Debug\net9.0\gerenciadorEstoqueLoja.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\TI\miniProjectsStudyCsharp\gerenciadorEstoqueLoja\obj\Debug\net9.0\ref\gerenciadorEstoqueLoja.dll

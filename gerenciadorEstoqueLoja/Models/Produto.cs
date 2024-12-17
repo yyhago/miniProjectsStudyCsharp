@@ -3,12 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace gerenciadorEstoqueLojaClass
-{
-    public class Produto
-    {
-        public string NomeProduto { get; set; }
-        public int quantProduto { get; set; }
-    
-    }
+namespace Models.gerenciadorEstoqueLojaClass 
+{     
+    public class Produto     
+    {         
+        public string NomeProduto { get; set; } = string.Empty;         
+        public int quantProduto { get; set; }          
+    } 
 }
