@@ -111,7 +111,7 @@ while (true)
             }
 
             // Solicitar a nova quantidade
-            Console.WriteLine("Digite a nova quantidade do produto:");
+            Console.WriteLine("Digite a nova quantidade do produto:"); 
             string entrada = Console.ReadLine() ?? "";
 
             // Converte a novaQuantidadeProduto para int e verifica se é um número válido
