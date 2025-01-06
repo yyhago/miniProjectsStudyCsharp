@@ -45,7 +45,7 @@ while (true)
             Console.WriteLine("Nome do produto que deseja adicionar:");
             string NomeProduto = Console.ReadLine() ?? "";
 
-            // Validação para nome em branco
+            // Validação para nome em branco 
             if (string.IsNullOrWhiteSpace(NomeProduto))
             {
                 Console.WriteLine("Nome do produto não pode ser vazio.");

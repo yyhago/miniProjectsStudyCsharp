@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\TI\csharp\sistemaEstacionamento\bin\Debug\net9.0\sistemaEstacionamento.exe
+C:\Users\Administrator\Desktop\TI\csharp\sistemaEstacionamento\bin\Debug\net9.0\sistemaEstacionamento.deps.json
+C:\Users\Administrator\Desktop\TI\csharp\sistemaEstacionamento\bin\Debug\net9.0\sistemaEstacionamento.runtimeconfig.json
+C:\Users\Administrator\Desktop\TI\csharp\sistemaEstacionamento\bin\Debug\net9.0\sistemaEstacionamento.dll
+C:\Users\Administrator\Desktop\TI\csharp\sistemaEstacionamento\bin\Debug\net9.0\sistemaEstacionamento.pdb
+C:\Users\Administrator\Desktop\TI\csharp\sistemaEstacionamento\obj\Debug\net9.0\sistemaEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\TI\csharp\sistemaEstacionamento\obj\Debug\net9.0\sistemaEstacionamento.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\TI\csharp\sistemaEstacionamento\obj\Debug\net9.0\sistemaEstacionamento.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\TI\csharp\sistemaEstacionamento\obj\Debug\net9.0\sistemaEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TI\csharp\sistemaEstacionamento\obj\Debug\net9.0\sistemaEstacionamento.dll
+C:\Users\Administrator\Desktop\TI\csharp\sistemaEstacionamento\obj\Debug\net9.0\refint\sistemaEstacionamento.dll
+C:\Users\Administrator\Desktop\TI\csharp\sistemaEstacionamento\obj\Debug\net9.0\sistemaEstacionamento.pdb
+C:\Users\Administrator\Desktop\TI\csharp\sistemaEstacionamento\obj\Debug\net9.0\sistemaEstacionamento.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\TI\csharp\sistemaEstacionamento\obj\Debug\net9.0\ref\sistemaEstacionamento.dll
